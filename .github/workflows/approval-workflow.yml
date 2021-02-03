@@ -1,1 +1,4 @@
-name: AZ-400 Team Approval workflo
+name: AZ-400 Team Approval workflow
+on: [pull_request_review]
+
+
